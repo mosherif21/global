@@ -1,0 +1,564 @@
+M:\Project 7yaty\project\project\bin\Debug\project.exe.config
+M:\Project 7yaty\project\project\bin\Debug\project.exe
+M:\Project 7yaty\project\project\bin\Debug\project.pdb
+M:\Project 7yaty\project\project\obj\Debug\project.Properties.Resources.resources
+M:\Project 7yaty\project\project\obj\Debug\project.csproj.GenerateResource.cache
+M:\Project 7yaty\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+M:\Project 7yaty\project\project\obj\Debug\project.exe
+M:\Project 7yaty\project\project\obj\Debug\project.pdb
+M:\Project 7yaty\project\project\obj\Debug\project.Fr_account.resources
+M:\Project 7yaty\project\project\obj\Debug\project.Fr_balance.resources
+M:\Project 7yaty\project\project\obj\Debug\project.Fr_orders.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_products.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_customer.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_cust_login.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_emp_login.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_splash.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_start.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_employee.resources
+M:\Project 7yaty\project\project\obj\Debug\project.Fr_change_user.resources
+M:\Project 7yaty\project\project\obj\Debug\project.Fr_Return.resources
+M:\Project 7yaty\project\project\obj\Debug\project.Fr_warehouse.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_favorites.resources
+M:\Project 7yaty\project\project\obj\Debug\project.usc_cart_products.resources
+M:\Project 7yaty\project\project\obj\Debug\project.usc_products.resources
+M:\Project 7yaty\project\project\obj\Debug\project.usc_favorites.resources
+M:\Project 7yaty\project\project\obj\Debug\project.Fr_cust_favorites.resources
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Data.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Utils.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Data.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Utils.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\obj\Debug\project.csproj.CopyComplete
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraBars.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Office.v20.2.Core.dll
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraBars.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+M:\Project 7yaty\project\project\bin\Debug\DevExpress.Office.v20.2.Core.xml
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+M:\Project 7yaty\project\project\obj\Debug\project.exe.licenses
+M:\Project 7yaty\project\project\obj\Debug\project.usc_order_checkout.resources
+M:\Project 7yaty\project\project\obj\Debug\project.fr_checkout.resources
+M:\Project 7yaty\project\project\obj\Debug\project.usc_orders.resources
+M:\Project 7yaty\project\project\obj\Debug\project.usc_order_status.resources
+M:\Project 7yaty\project\project\obj\Debug\project.csprojAssemblyReference.cache
+M:\Project 7yaty\project\project\bin\Debug\global1.mdf
+M:\Project 7yaty\project\project\bin\Debug\global1_log.ldf
+C:\Users\hamol\Desktop\project\project\bin\Debug\global1.mdf
+C:\Users\hamol\Desktop\project\project\bin\Debug\global1_log.ldf
+C:\Users\hamol\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\hamol\Desktop\project\project\bin\Debug\project.exe
+C:\Users\hamol\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_favorites.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Fr_change_user.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Fr_Return.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Fr_warehouse.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Fr_cust_favorites.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_checkout.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_employee.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_customer.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_cust_login.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_emp_login.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Fr_account.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Fr_balance.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Fr_orders.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_products.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_splash.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.fr_start.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.usc_cart_products.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.usc_products.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.usc_favorites.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.usc_order_checkout.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.usc_orders.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.usc_order_status.resources
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.exe.licenses
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.exe
+C:\Users\hamol\Desktop\project\project\obj\Debug\project.pdb
+M:\college\project\project\bin\Debug\global1.mdf
+M:\college\project\project\bin\Debug\global1_log.ldf
+M:\college\project\project\bin\Debug\project.exe.config
+M:\college\project\project\bin\Debug\project.exe
+M:\college\project\project\bin\Debug\project.pdb
+M:\college\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+M:\college\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+M:\college\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+M:\college\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+M:\college\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+M:\college\project\project\bin\Debug\DevExpress.Office.v20.2.Core.dll
+M:\college\project\project\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.Data.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+M:\college\project\project\bin\Debug\DevExpress.Utils.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.XtraBars.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+M:\college\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+M:\college\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+M:\college\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+M:\college\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+M:\college\project\project\bin\Debug\DevExpress.Office.v20.2.Core.xml
+M:\college\project\project\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\project\project\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\project\project\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\project\project\obj\Debug\project.fr_favorites.resources
+M:\college\project\project\obj\Debug\project.Fr_change_user.resources
+M:\college\project\project\obj\Debug\project.Fr_Return.resources
+M:\college\project\project\obj\Debug\project.Fr_warehouse.resources
+M:\college\project\project\obj\Debug\project.Fr_cust_favorites.resources
+M:\college\project\project\obj\Debug\project.fr_checkout.resources
+M:\college\project\project\obj\Debug\project.fr_employee.resources
+M:\college\project\project\obj\Debug\project.fr_customer.resources
+M:\college\project\project\obj\Debug\project.fr_cust_login.resources
+M:\college\project\project\obj\Debug\project.fr_emp_login.resources
+M:\college\project\project\obj\Debug\project.Fr_account.resources
+M:\college\project\project\obj\Debug\project.Fr_balance.resources
+M:\college\project\project\obj\Debug\project.Fr_orders.resources
+M:\college\project\project\obj\Debug\project.fr_products.resources
+M:\college\project\project\obj\Debug\project.fr_splash.resources
+M:\college\project\project\obj\Debug\project.fr_start.resources
+M:\college\project\project\obj\Debug\project.Properties.Resources.resources
+M:\college\project\project\obj\Debug\project.usc_cart_products.resources
+M:\college\project\project\obj\Debug\project.usc_products.resources
+M:\college\project\project\obj\Debug\project.usc_favorites.resources
+M:\college\project\project\obj\Debug\project.usc_order_checkout.resources
+M:\college\project\project\obj\Debug\project.usc_orders.resources
+M:\college\project\project\obj\Debug\project.usc_order_status.resources
+M:\college\project\project\obj\Debug\project.csproj.GenerateResource.cache
+M:\college\project\project\obj\Debug\project.exe.licenses
+M:\college\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+M:\college\project\project\obj\Debug\project.csproj.CopyComplete
+M:\college\project\project\obj\Debug\project.exe
+M:\college\project\project\obj\Debug\project.pdb
+M:\college\project\project\obj\Debug\project.csprojAssemblyReference.cache
+M:\college\advanced\project\project\bin\Debug\global1.mdf
+M:\college\advanced\project\project\bin\Debug\global1_log.ldf
+M:\college\advanced\project\project\bin\Debug\project.exe.config
+M:\college\advanced\project\project\bin\Debug\project.exe
+M:\college\advanced\project\project\bin\Debug\project.pdb
+M:\college\advanced\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+M:\college\advanced\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+M:\college\advanced\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+M:\college\advanced\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+M:\college\advanced\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+M:\college\advanced\project\project\bin\Debug\DevExpress.Office.v20.2.Core.dll
+M:\college\advanced\project\project\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.Data.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.Utils.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.XtraBars.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+M:\college\advanced\project\project\bin\Debug\DevExpress.Office.v20.2.Core.xml
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\advanced\project\project\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\advanced\project\project\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\advanced\project\project\obj\Debug\project.csprojAssemblyReference.cache
+M:\college\advanced\project\project\obj\Debug\project.fr_favorites.resources
+M:\college\advanced\project\project\obj\Debug\project.Fr_change_user.resources
+M:\college\advanced\project\project\obj\Debug\project.Fr_Return.resources
+M:\college\advanced\project\project\obj\Debug\project.Fr_warehouse.resources
+M:\college\advanced\project\project\obj\Debug\project.Fr_cust_favorites.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_checkout.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_employee.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_customer.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_cust_login.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_emp_login.resources
+M:\college\advanced\project\project\obj\Debug\project.Fr_account.resources
+M:\college\advanced\project\project\obj\Debug\project.Fr_balance.resources
+M:\college\advanced\project\project\obj\Debug\project.Fr_orders.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_products.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_splash.resources
+M:\college\advanced\project\project\obj\Debug\project.fr_start.resources
+M:\college\advanced\project\project\obj\Debug\project.Properties.Resources.resources
+M:\college\advanced\project\project\obj\Debug\project.usc_cart_products.resources
+M:\college\advanced\project\project\obj\Debug\project.usc_products.resources
+M:\college\advanced\project\project\obj\Debug\project.usc_favorites.resources
+M:\college\advanced\project\project\obj\Debug\project.usc_order_checkout.resources
+M:\college\advanced\project\project\obj\Debug\project.usc_orders.resources
+M:\college\advanced\project\project\obj\Debug\project.usc_order_status.resources
+M:\college\advanced\project\project\obj\Debug\project.csproj.GenerateResource.cache
+M:\college\advanced\project\project\obj\Debug\project.exe.licenses
+M:\college\advanced\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+M:\college\advanced\project\project\obj\Debug\project.csproj.CopyComplete
+M:\college\advanced\project\project\obj\Debug\project.exe
+M:\college\advanced\project\project\obj\Debug\project.pdb
+M:\college\advanced\project\project\obj\Debug\project.fr_thanks.resources
+M:\college\project\project\obj\Debug\project.fr_thanks.resources
+M:\college\faf\project\project\bin\Debug\global1.mdf
+M:\college\faf\project\project\bin\Debug\global1_log.ldf
+M:\college\faf\project\project\bin\Debug\project.exe.config
+M:\college\faf\project\project\bin\Debug\project.exe.manifest
+M:\college\faf\project\project\bin\Debug\project.application
+M:\college\faf\project\project\bin\Debug\project.exe
+M:\college\faf\project\project\bin\Debug\project.pdb
+M:\college\faf\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+M:\college\faf\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+M:\college\faf\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+M:\college\faf\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+M:\college\faf\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+M:\college\faf\project\project\bin\Debug\DevExpress.Office.v20.2.Core.dll
+M:\college\faf\project\project\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.Data.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.Utils.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.XtraBars.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+M:\college\faf\project\project\bin\Debug\DevExpress.Office.v20.2.Core.xml
+M:\college\faf\project\project\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+M:\college\faf\project\project\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\faf\project\project\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+M:\college\faf\project\project\obj\Debug\project.csprojAssemblyReference.cache
+M:\college\faf\project\project\obj\Debug\project.fr_favorites.resources
+M:\college\faf\project\project\obj\Debug\project.Fr_change_user.resources
+M:\college\faf\project\project\obj\Debug\project.Fr_Return.resources
+M:\college\faf\project\project\obj\Debug\project.Fr_warehouse.resources
+M:\college\faf\project\project\obj\Debug\project.Fr_cust_favorites.resources
+M:\college\faf\project\project\obj\Debug\project.fr_checkout.resources
+M:\college\faf\project\project\obj\Debug\project.fr_thanks.resources
+M:\college\faf\project\project\obj\Debug\project.fr_employee.resources
+M:\college\faf\project\project\obj\Debug\project.fr_customer.resources
+M:\college\faf\project\project\obj\Debug\project.fr_cust_login.resources
+M:\college\faf\project\project\obj\Debug\project.fr_emp_login.resources
+M:\college\faf\project\project\obj\Debug\project.Fr_account.resources
+M:\college\faf\project\project\obj\Debug\project.Fr_balance.resources
+M:\college\faf\project\project\obj\Debug\project.Fr_orders.resources
+M:\college\faf\project\project\obj\Debug\project.fr_products.resources
+M:\college\faf\project\project\obj\Debug\project.fr_splash.resources
+M:\college\faf\project\project\obj\Debug\project.fr_start.resources
+M:\college\faf\project\project\obj\Debug\project.Properties.Resources.resources
+M:\college\faf\project\project\obj\Debug\project.usc_cart_products.resources
+M:\college\faf\project\project\obj\Debug\project.usc_products.resources
+M:\college\faf\project\project\obj\Debug\project.usc_favorites.resources
+M:\college\faf\project\project\obj\Debug\project.usc_order_checkout.resources
+M:\college\faf\project\project\obj\Debug\project.usc_orders.resources
+M:\college\faf\project\project\obj\Debug\project.usc_order_status.resources
+M:\college\faf\project\project\obj\Debug\project.csproj.GenerateResource.cache
+M:\college\faf\project\project\obj\Debug\project.exe.licenses
+M:\college\faf\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+M:\college\faf\project\project\obj\Debug\project.exe.manifest
+M:\college\faf\project\project\obj\Debug\project.application
+M:\college\faf\project\project\obj\Debug\project.csproj.CopyComplete
+M:\college\faf\project\project\obj\Debug\project.exe
+M:\college\faf\project\project\obj\Debug\project.pdb
